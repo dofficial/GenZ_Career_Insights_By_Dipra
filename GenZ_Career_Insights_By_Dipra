@@ -1,0 +1,16 @@
+GenZ_Career_Insights_By_Dipra/
+│
+├── 📁 Excel_Dashboard/
+│   └── GenZ_Insights_Excel_Dashboard.xlsx
+│
+├── 📁 SQL_Queries/
+│   └── Career_Analysis_Queries.sql
+│
+├── 📁 PowerBI_Visuals/
+│   └── Manager_Aspirations.pbix
+│   └── Learning_Aspirations.pbix
+│
+├── 📁 Final_Presentation/
+│   └── KultureHire_Project_Presentation.pdf
+│
+└── 📄 README.md
